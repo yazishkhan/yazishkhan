@@ -19,10 +19,13 @@ I mostly work with C++, embedded system  and Cloud based technologies. 🚀
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
- </p>
  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
   </a>
+ </p>
+</a> 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"  height="75" />
+</a> 
 
 ### Cybersecurity
 
