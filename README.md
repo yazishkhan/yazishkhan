@@ -26,7 +26,7 @@ I mostly work with C++, embedded system  and Cloud based technologies. 🚀
   </a> 
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"  height="55" />
     <a href="https://www.docker.com/" target="_blank" >
-
+  </a>
       <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
    </a>
  
@@ -36,9 +36,9 @@ I mostly work with C++, embedded system  and Cloud based technologies. 🚀
 
 <p float="left">
 </a>
- <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" height="35"/>
+ <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" height="45"/>
 
-<img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" height="65"/>
+<img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" height="75"/>
 </a>
 
 
