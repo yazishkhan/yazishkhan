@@ -48,6 +48,7 @@ I mostly work with C++, embedded system  and Cloud based technologies. 🚀
 ### 📫 How to reach me?
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/yazish-khan-3634752b7/) 👨🏻‍💻
+ - Follow me on [Instagram](https://www.instagram.com/techwizard.11/)
  - Follow me on [Instagram](https://www.instagram.com/yazish_khan_11/) ✨
  - Shoot Me an [Email](mailto:yazishkhan7@gmail.com) 💌
 
