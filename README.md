@@ -24,7 +24,7 @@ I mostly work with C++, embedded system  and Cloud based technologies. 🚀
   </a>
  </p>
 </a> 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"  height="75" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"  height="55" />
 </a> 
 
 ### Cybersecurity
