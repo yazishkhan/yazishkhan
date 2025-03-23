@@ -40,7 +40,7 @@ I mostly work with C++, embedded system  and Cloud based technologies. 🚀
 </a>
 <img src="https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000" height="75"/>
 </a>
-<img src="https://img.icons8.com/?size=100&id=v5aFhu6h1M57&format=png&color=000000" height="75"/>
+<img src="https://img.icons8.com/?size=100&id=vECpai5R423e&format=png&color=000000" height="75"/>
 </a>
 
 
